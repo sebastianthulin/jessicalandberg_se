@@ -44,9 +44,9 @@
 	<![endif]-->
 
   </head>
-  
+
   <body>
-  
+
   	<div class="container hidden-md hidden-lg hidden-print">
 		<div class="row">
   			<div class="col-xs-24">
@@ -58,7 +58,7 @@
   			</div>
 		</div>
 	</div>
-  
+
   	<nav role="main" class="hidden-print">
   		<ul>
   			<li><a class="active scrollable" href="#jessica">Jessica</a></li>
@@ -68,60 +68,60 @@
   			<li><a href="./Jessica_Landberg_-_CV_2015.pdf">CV</a></li>
   		</ul>
   	</nav>
-  	
+
   	<header class="container" id="jessica">
-	  		
+
 	  		<div class="row">
 		  		<div class="col-xs-24">
 			  		<img id="profile" src="./assets/images/jessica.png"/>
 		  		</div>
 	  		</div>
-	  		
+
 	  		<div class="row">
 		  		<div class="col-xs-24">
 			  		<h1>Jessica <span class="hidden-xs">Landberg</span></h1>
 			  		<h2 class="small bottommargin">Barnskötare</h2>
 		  		</div>
 	  		</div>
-	  		
+
 	  		<div class="row">
 		  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
 		  		<div class="col-xs-24 col-md-16 col-lg-14">
-					
-					<p class="description">	
-						Hej! Jag heter Jessica Landberg, jag är 23 år och har bland annat hunnit med att jobba som barnskötare och personlig assistent. Som person är jag glad och positiv. Jag är på jakt efter ett nytt arbete, eftersom jag söker nya utmaningar i livet. 
+
+					<p class="description">
+						Hej! Jag heter Jessica Landberg, jag är 23 år och har bland annat hunnit med att jobba som barnskötare och personlig assistent. Som person är jag glad och positiv. Jag är på jakt efter ett nytt arbete, eftersom jag söker nya utmaningar i livet.
 					</p>
-					
-					<p class="description">	
-						Jag är en flitig kvinna, som inte är rädd för att testa på nya utmaningar på grund av att jag är en driven person, som inte ger upp i första taget. När jag satt upp ett mål, gör jag allt för att nå dit ofta med hjälp av kreativa lösningar. 
+
+					<p class="description">
+						Jag är en flitig kvinna, som inte är rädd för att testa på nya utmaningar på grund av att jag är en driven person, som inte ger upp i första taget. När jag satt upp ett mål, gör jag allt för att nå dit ofta med hjälp av kreativa lösningar.
 					</p>
-					
-					<p class="description">	
-						Jag har en god förmåga att skapa goda relationer till människor som jag jobbar med. Jag älskar att arbeta med människor och sätter stort värde i att göra dagen så bra som möjligt för alla jag kommer i kontakt med. Att se människors behov och att vara flexibel utifrån de förutsättningar som finns, är viktigt för mig. Att finnas till hands, stötta och skapa trygghet är lika så. 
+
+					<p class="description">
+						Jag har en god förmåga att skapa goda relationer till människor som jag jobbar med. Jag älskar att arbeta med människor och sätter stort värde i att göra dagen så bra som möjligt för alla jag kommer i kontakt med. Att se människors behov och att vara flexibel utifrån de förutsättningar som finns, är viktigt för mig. Att finnas till hands, stötta och skapa trygghet är lika så.
 					</p>
-					
-					<p class="description">	
+
+					<p class="description">
 						Från tidigare arbetsgivare har jag fått mycket bra respons. Med kommentarer som att jag är drivande, positiv, arbetsvillig och flexibel.
 					</p>
-					
+
 					<p class="description">
 						Att komma i god tid och att respektera andra människors åsikter betyder mycket för mig. På min fritid umgås jag med både vänner och familj, vilket är betydelsefullt för mig och lika så träningen.
-					</p>	
-												
+					</p>
+
 				</div>
 		  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
 	  		</div>
-	  		
+
   	</header>
-	
+
 	<section id="utbildning" class="container">
-	
+
 		<div class="row">
 	  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
 	  		<div class="col-xs-24 col-md-16 col-lg-14">
-	
+
 				<h4 class="bottommargin topmargin">Utbildning</h4>
-				
+
 				<p class="description">
 					<center>
 						<strong>Barn och fritidsprogrammet - Filbornaskolan | 2007 - 2010</strong>
@@ -147,58 +147,68 @@
 						<br/>
 						Estetisk verksamhet
 						<br/>
-						
+
 						Projektarbete m.fl.
-					</center> 	
+					</center>
 				</p>
-				
+
 			</div>
 	  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
   		</div>
 
 	</section>
 
-	
+
 	<section id="arbete" class="container">
 
 		<div class="row">
 	  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
 	  		<div class="col-xs-24 col-md-16 col-lg-14">
-	
+
 				<h4 class="bottommargin topmargin">Erfarenheter</h4>
-				
+
+				<p class="description">
+					<strong>Helsingborg Stad (Snöbollsgatans förskola) | 2016 - 2017</strong><br/>
+					-
+				</p>
+
+				<p class="description">
+					<strong>Helsingborg Stad (Påarps förskola) | 2015 - 2016</strong><br/>
+					-
+				</p>
+
 				<p class="description">
 					<strong>Helsingborg Stad (Raus Plantering Skola) | 2015</strong><br/>
-					Som elevassistent på Raus Plantering Skola utvecklade jag mina kunskaper aktivt genom att ge tecken- och tal- stöd åt barnet. Bland annat med hjälp av stödbilder. Jag arbetade också aktivt med att integrera barnet i gruppen och olika lekar. 
+					Som elevassistent på Raus Plantering Skola utvecklade jag mina kunskaper aktivt genom att ge tecken- och tal- stöd åt barnet. Bland annat med hjälp av stödbilder. Jag arbetade också aktivt med att integrera barnet i gruppen och olika lekar.
 				</p>
 
 				<p class="description">
 					<strong>Pysslingen Förskolor och Skolor AB | 2012 - 2014</strong><br/>
-					På Pysslingen arbetade jag på en av de sex avdelningarna, i en utegrupp där vi hade stort fokus på lek och lärande i naturen. Genom expermient och teman lärde sig barnen om hur saker fungerar, och varför det är så. 
+					På Pysslingen arbetade jag på en av de sex avdelningarna, i en utegrupp där vi hade stort fokus på lek och lärande i naturen. Genom expermient och teman lärde sig barnen om hur saker fungerar, och varför det är så.
 				</p>
 
 				<p class="description">
 					<strong>Montessoriförskolan Rosa Tornet Helsingborg AB | 2011</strong><br/>
-					Rosa Tornet gav mig praktiska arbetserfarenheter inom Montessori. Genom att finnas tillgänglig när barnen på egen hand testade sig fram, lärde sig de hur vardagssysslor fungerar. Jag insåg då hur viktigt det är för barnen att få vara med och att man gör lärande kul! 
+					Rosa Tornet gav mig praktiska arbetserfarenheter inom Montessori. Genom att finnas tillgänglig när barnen på egen hand testade sig fram, lärde sig de hur vardagssysslor fungerar. Jag insåg då hur viktigt det är för barnen att få vara med och att man gör lärande kul!
 				</p>
-				
+
 				<p class="description">
 					<strong>Personal Direkt AB | 2010 - 2011</strong><br/>
-					På Personal Direkt arbetade jag ute hos kunder (förskolor och skolor). Jag träffade många nya människor, eftersom arbetsplatserna var mycket varierande från dag till dag. Detta gav mig goda insikter i hur olika skolor planerar och utför sitt arbete. 
+					På Personal Direkt arbetade jag ute hos kunder (förskolor och skolor). Jag träffade många nya människor, eftersom arbetsplatserna var mycket varierande från dag till dag. Detta gav mig goda insikter i hur olika skolor planerar och utför sitt arbete.
 				</p>
-				
+
 				<p class="description">
 				<strong>Jag har också jobbat med:</strong><br/>
-				Särskolelärare - Jens Billeskolan, 
-				Förskolelärare - Slottshöjdens förskola, 
+				Särskolelärare - Jens Billeskolan,
+				Förskolelärare - Slottshöjdens förskola,
 				Förskolelärare - Dalhemsskolan, 
-				Förskolelärare - Elinebergskolan, 
+				Förskolelärare - Elinebergskolan,
 				Förskolelärare - Slottshöjdens förskola,
 				Förskolelärare - Elinebergskolan,
 				Vaktmästare - Väla Motorgård,
 				Servicepersonal - Drottninghögshemmet
 				</p>
-				
+
 			</div>
 	  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
   		</div>
@@ -211,31 +221,31 @@
 		<div class="row">
 	  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
 	  		<div class="col-xs-24 col-md-16 col-lg-14">
-	
+
 				<h4 class="bottommargin topmargin">Kontakta mig</h4>
-				
+
 				<p class="oneliner hidden-xs hidden-sm"><a href="mailto:jessica.landberg@hotmail.com">jessica.landberg@hotmail.com</a></p>
-				
+
 				<p class="oneliner hidden-xs hidden-sm"><a href="tel:+46735905468">0735 905 468</a></p>
-			
+
 				<p class="description hidden-md hidden-lg">
 					För att kontakta mig kan du antingen maila på <a href="mailto:jessica.landberg@hotmail.com">jessica.landberg@hotmail.com</a> eller slå mig en signal på <a href="tel:+46735905468">+46 (0)735 905 468</a>.
 					<br/>
 					<br/>
-					Vi hörs! 
+					Vi hörs!
 				</p>
-				
+
 			</div>
 	  		<div class="hidden-xs hidden-sm col-md-4 col-lg-5"></div>
   		</div>
-	
+
 	</footer>
 
 	</div>
 
 	<!-- Custom scripts -->
 	<script src="./assets/js/min/script-min.js"></script>
-	
+
 	<!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -243,5 +253,5 @@
     <![endif]-->
 
   </body>
-  
+
 </html>
