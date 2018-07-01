@@ -89,7 +89,7 @@
 		  		<div class="col-xs-24 col-md-16 col-lg-14">
 
 					<p class="description">
-						Hej! Jag heter Jessica Landberg, jag är 23 år och har bland annat hunnit med att jobba som barnskötare och personlig assistent. Som person är jag glad och positiv. Jag är på jakt efter ett nytt arbete, eftersom jag söker nya utmaningar i livet.
+						Hej! Jag heter Jessica Landberg, jag är 26 år och har bland annat hunnit med att jobba som barnskötare och personlig assistent. Som person är jag glad och positiv. Jag är på jakt efter ett nytt arbete, eftersom jag söker nya utmaningar i livet.
 					</p>
 
 					<p class="description">
@@ -169,12 +169,12 @@
 
 				<p class="description">
 					<strong>Helsingborg Stad (Snöbollsgatans förskola) | 2016 - 2017</strong><br/>
-					-
+					På snöbollsgatans förskola arbetade jag större delen av tiden med femårsgruppen.
 				</p>
 
 				<p class="description">
 					<strong>Helsingborg Stad (Påarps förskola) | 2015 - 2016</strong><br/>
-					-
+					På Påarps förskola fick jag arbeta på olika avdelningar, både med 5-årsgruppen och mindre barn. Under sommaren jobbade jag också som kökspersonal på förskolan.
 				</p>
 
 				<p class="description">
